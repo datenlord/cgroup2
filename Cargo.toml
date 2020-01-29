@@ -1,0 +1,11 @@
+[package]
+name = "cgroup2"
+version = "0.0.1"
+description = ""
+authors = ["Eli Ma <eli@patch.sh>"]
+edition = "2018"
+license = "MIT"
+repository = "https://github.com/patchlab/cgroup2.git"
+readme = "README.md"
+
+[dependencies]
